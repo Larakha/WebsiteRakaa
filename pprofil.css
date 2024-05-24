@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #faebd7;
+}
+
+center {
+  text-align: center;
+}
+
+img {
+  width: 150px;
+  height: 200px;
+  border: 2px solid rgb(86, 17, 151);
+  border-radius: 10px;
+  margin: 10px;
+}
+
+h1 {
+  color: #ffffff;
+  text-shadow: 2px 2px 5px rgb(86, 17, 151);
+}
+
+i {
+  font-style: italic;
+}
+
+b {
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 5px rgb(86, 17, 151);
+}
+
+p a {
+  text-decoration: none;
+  color: rgb(55, 136, 199);
+  margin: 0 10px;
+}
+
+h2 {
+  background-color: rgb(86, 17, 151);
+  color: white;
+  padding: 5px 10px;
+  margin: 10px 0;
+}
+
+h3 {
+  color: rgb(86, 17, 151);
+  margin-top: 20px;
+}
+
+p {
+  text-align: justify;
+  margin: 10px;
+}
+
+ul {
+  list-style: square;
+  margin-left: 20px;
+}
+
+ol {
+  list-style: decimal;
+  margin-left: 20px;
+}
+
+u {
+  text-decoration: underline;
+}
+.medsos img {
+  width: 200px;
+  margin: 2px;;
+  cursor: pointer;
+}
